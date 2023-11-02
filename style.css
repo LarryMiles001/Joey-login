@@ -3,7 +3,7 @@ body{
     grid-template-columns: 1fr;
     grid-template-rows: 90px 1fr;
     height: 100vh;
-    background-image: url(./Img/Stream\ and\ Trees\ sunset.jpg);
+    background-image: url(Stream\ and\ Trees\ sunset.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
